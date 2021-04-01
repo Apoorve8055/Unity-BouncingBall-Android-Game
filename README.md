@@ -4,4 +4,4 @@ Feel free to support this project and submit any update. Just let me know!
 
 Team
 ----------
-[1] Apoorve Verma - Developer
+[1] Apoorve Verma[http://apoorveverma.com/] - Developer
